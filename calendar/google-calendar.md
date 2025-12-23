@@ -21,3 +21,17 @@ Google Calendar is used as the central place for managing:
   - Reviews and planning
 
 ### Naming Convention
+**Examples**
+- `AFFiNE : Create project overview`
+- `GitHub : Commit documentation`
+- `DevOps : Docker practice`
+
+## Benefits
+- Clear separation between tasks and events
+- Easy daily planning
+- Works well with long-term learning goals
+
+## Why Google Calendar
+- Reliable and free
+- Widely used in companies
+- Simple but powerful time management
