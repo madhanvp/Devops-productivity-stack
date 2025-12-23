@@ -1,0 +1,47 @@
+# AFFiNE – Projects & Notes (Cloud)
+
+## Purpose
+AFFiNE is used as a Notion-like workspace for:
+- Project documentation
+- Notes
+- Learning roadmap
+- Knowledge base
+
+## Workspace Structure
+
+📁 DevOps Workspace
+- Project Overview
+- Learning Roadmap
+- Daily Notes
+- Commands & Cheatsheets
+- Weekly Review
+
+## Page Usage
+
+### Project Overview
+- Project goal
+- Tools used
+- Current status
+- Next steps
+
+### Daily Notes
+- What I learned today
+- Problems faced
+- Key takeaways
+
+### Weekly Review
+- What went well
+- What needs improvement
+- Plan for next week
+
+## Best Practices
+- One page per topic or project
+- Use headings and bullet points
+- Keep notes short and clear
+- Update weekly review regularly
+
+## Why AFFiNE (Cloud)
+- Clean UI
+- Free cloud access
+- No self-hosting maintenance
+- Good alternative to Notion
